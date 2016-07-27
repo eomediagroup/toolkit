@@ -8,7 +8,8 @@ Questions or new things to add? [Contact us](mailto:online@eomediagroup.com).
     - [Flavel House](#flavel-slider)
     - [Astoria Column](#column-slider)
 * [Tools](#tools)
-  - [Juxtapose Image Sliders](#juxtapose)
+  - [Juxtapose Image Sliders](#juxtapose-tool)
+  - [Timeline](#timeline-tool)
 
 ##Interactives <a id="interactives"></a>
 
@@ -34,9 +35,14 @@ _Images hosted by Matt Vann in Google Drive_
 
 ##Tools <a id="tools"></a>
 
-###Juxtapose Image Sliders <a id="juxtapose"></a>
+###Juxtapose Image Sliders <a id="juxtapose-tool"></a>
 JuxtaposeJS is a simple, open source tool for creating before/after image sliders. Just provide two image URLs and Juxtapose will do the rest of the work for you.
 
 The easiest way to create a Juxtapose slider is to go to to http://juxtapose.knightlab.com and use the tool to generate an embedable code snippet that you can use on any website.
 
 Please [contact the digital team](mailto:online@eomediagroup.com) when creating a slider, as we will host images for you and provide a stable url.
+
+###TimelineJS <a id="timeline-tool"></a>
+TimelineJS is an open-source tool that enables anyone to build visually rich, interactive timelines.
+
+Get started by visiting http://timeline.knightlab.com/. After you get acquainted with the tool, spin up a spreadsheet and start adding data. We've created a [blank spreadsheet](https://docs.google.com/spreadsheets/d/1XUYdMCRrV9jXXSBtA4wSn-8vNZddZG4PkciT-a0bs38/edit#gid=0) built off the knightlab template to get you started quickly. Make a copy, rename it, and go!
