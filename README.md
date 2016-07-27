@@ -2,8 +2,9 @@
 This is a list of interactives and tools created and for use by EO Media Group newsrooms and staff to make your journalism more awesome. Questions or new things to add? [Contact us](mailto:online@eomediagroup.com).
 
 * [Interactives](#interactives)
-  - [Flavel House image slider](#flavel-slider)
-  - [Astoria Column image slider](#column-slider)
+  - [Image Sliders](#image-sliders)
+    - [Flavel House](#flavel-slider)
+    - [Astoria Column](#column-slider)
 * [Tools](#tools)
   - [Juxtapose Image Sliders](#juxtapose)
 
