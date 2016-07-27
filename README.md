@@ -10,7 +10,7 @@ JuxtaposeJS is a simple, open source tool for creating before/after image slider
 The easiest way to create a Juxtapose slider is to go to to http://juxtapose.knightlab.com and use the tool to generate an embedable code snippet that you can use on any website. Please [contact the digital team](mailto:online@eomediagroup.com) when creating a slider, as we will host images for you and provide a stable url.
 
 ####Astoria Flavel house image slider
-This slider compares the Flavel house's state of disrepair (1901 vs. 2015)
+This slider [compares the Flavel house's]() state of disrepair (1901 vs. 2015). 
 
 To use, copy and paste the embed code below. For news sites, make sure you're pasting with the "source code" toggle engaged.
 ``` 
@@ -18,8 +18,10 @@ To use, copy and paste the embed code below. For news sites, make sure you're pa
 ```
 
 ####Astoria column image slider
-This slider compares the column when new and newly restored (1920s vs. 2016).
+This slider [compares the column](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=023e2576-536b-11e6-8965-0e7075bba956) when new and newly restored (1920s vs. 2016). Note that it is a tall vertical slider.
 
 To use, copy and paste the embed code below. For news sites, make sure you're pasting with the "source code" toggle engaged.
-```<iframe frameborder="0" class="juxtapose" width="100%" height="982" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=023e2576-536b-11e6-8965-0e7075bba956"></iframe>```
+```
+<iframe frameborder="0" class="juxtapose" width="100%" height="982" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=023e2576-536b-11e6-8965-0e7075bba956"></iframe>
+```
 
