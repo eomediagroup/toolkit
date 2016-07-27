@@ -12,7 +12,7 @@ The easiest way to create a Juxtapose slider is to go to to http://juxtapose.kni
 Please [contact the digital team](mailto:online@eomediagroup.com) when creating a slider, as we will host images for you and provide a stable url.
 
 ####Astoria Flavel house image slider
-This slider [compares the Flavel house's]() state of disrepair (1901 vs. 2015). 
+This slider [compares the Flavel house's](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=aab8e22e-528d-11e6-8965-0e7075bba956) state of disrepair (1901 vs. 2015). 
 
 To use, copy and paste the embed code below. For news sites, make sure you're pasting with the "source code" toggle engaged.
 ``` 
