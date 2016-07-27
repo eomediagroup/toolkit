@@ -1,9 +1,13 @@
 # Toolkit
-This is a list of interactives and tools created and for use by EO Media Group newsrooms and staff to make your journalism more awesome. Questions or new things to add? [Contact us](mailto:online@eomediagroup.com). 
+This is a list of interactives and tools created and for use by EO Media Group newsrooms and staff to make your journalism more awesome. Questions or new things to add? [Contact us](mailto:online@eomediagroup.com).
 
-##Interactives
+* [Interactives](#interactives)
+  - [Image Sliders](#image-sliders)
+* [Tools](#tools)
 
-###Juxtapose Image Slider
+##Interactives <a id="interactives"></a>
+
+###Image Sliders <a id="image-sliders"></a>
 
 JuxtaposeJS is a simple, open source tool for creating before/after image sliders. Just provide two image URLs and Juxtapose will do the rest of the work for you.
 
@@ -27,3 +31,4 @@ To use, copy and paste the embed code below. For news sites, make sure you're pa
 <iframe frameborder="0" class="juxtapose" width="100%" height="982" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=023e2576-536b-11e6-8965-0e7075bba956"></iframe>
 ```
 
+##Tools <a id="tools"></a>
