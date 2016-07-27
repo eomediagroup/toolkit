@@ -1,5 +1,7 @@
 # Toolkit
-This is a list of interactives and tools created and for use by EO Media Group newsrooms and staff to make your journalism more awesome. Questions or new things to add? [Contact us](mailto:online@eomediagroup.com).
+This is a list of interactives and tools created and for use by EO Media Group newsrooms and staff to make your journalism more awesome. 
+
+Questions or new things to add? [Contact us](mailto:online@eomediagroup.com).
 
 * [Interactives](#interactives)
   - [Image Sliders](#image-sliders)
