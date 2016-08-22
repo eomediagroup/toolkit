@@ -7,6 +7,8 @@ Questions or new things to add? [Contact us](mailto:online@eomediagroup.com).
   - [Image Sliders](#image-sliders)
     - [Flavel House](#flavel-slider)
     - [Astoria Column](#column-slider)
+  - [Timelines](#timelines)
+    - [Oregon death penalty](#death-penalty-timeline)
 * [Tools](#tools)
   - [Juxtapose Image Sliders](#juxtapose-tool)
   - [Timeline](#timeline-tool)
@@ -32,6 +34,16 @@ To use, copy and paste the embed code below. For news sites, make sure you're pa
 <iframe frameborder="0" class="juxtapose" width="100%" height="982" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=023e2576-536b-11e6-8965-0e7075bba956"></iframe>
 ```
 _Images hosted by Matt Vann in Google Drive_
+
+###Timelines <a id="timelines"></a>
+
+####Oregon Death Penalty History <a id="death-penalty-timeline"></a>
+This timeline [traces the history of the death penalty in Oregon](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qZNw1hqqtKN_x0g3IDf3K2Te-yRDDQ7n7suxSbCe63w&font=Default&lang=en&initial_zoom=2&height=650) since its inception in 1864.
+
+To use, copy and paste the embed code below. For news sites, make sure you're pasting with the "source code" toggle engaged.
+```
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qZNw1hqqtKN_x0g3IDf3K2Te-yRDDQ7n7suxSbCe63w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
+```
 
 ##Tools <a id="tools"></a>
 
